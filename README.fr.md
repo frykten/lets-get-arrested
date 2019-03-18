@@ -19,6 +19,7 @@ while (1) {
 
 Articles de presse associés:
 
+- (Français) [https://www.clubic.com/insolite/actualite-851745-japonaise-13-ans-inculpee-blague-boucle-infinie-javascript.html](https://www.clubic.com/insolite/actualite-851745-japonaise-13-ans-inculpee-blague-boucle-infinie-javascript.html)
 - (Japonaise) [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
 - (Anglais) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
